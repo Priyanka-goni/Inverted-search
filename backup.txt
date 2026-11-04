@@ -1,0 +1,8 @@
+#3;data;1;f1.txt;1#
+#8;is;2;f1.txt;1;f2.txt;1#
+#8;inverted;1;f2.txt;1#
+#12;my;1;f1.txt;1#
+#15;project;2;f1.txt;1;f2.txt;1#
+#18;structures;1;f1.txt;1#
+#18;search;1;f2.txt;1#
+#19;this;2;f1.txt;1;f2.txt;1#
